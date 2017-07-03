@@ -1,0 +1,42 @@
+[
+    {
+        "register_date": "2017-03-09",
+        "id": "1111",
+        "password": "admin",
+        "name": "admin",
+        "head_portrait": "https://img3.doubanio.com/icon/u77564270-3.jpg",
+        "attention": [ ],
+        "licked": [ ],
+        "broadcast": ["1","2"]
+    },
+    {
+        "register_date": "2017-03-09",
+        "id": "0001",
+        "password": "1111",
+        "name": "用户0001",
+        "head_portrait": "https://img3.doubanio.com/icon/u3842303-75.jpg",
+        "attention": [ ],
+        "licked": [ ],
+        "broadcast": ["1","2"]
+    },
+    {
+        "register_date": "2017-03-09",
+        "id": "0002",
+        "password": "1111",
+        "name": "用户0002",
+        "head_portrait": "https://img3.doubanio.com/icon/u66417827-83.jpg",
+        "attention": [ ],
+        "licked": [ ],
+        "broadcast": ["1","2"]
+    },
+    {
+        "register_date": "2017-03-09",
+        "id": "0003",
+        "password": "1111",
+        "name": "用户0003",
+        "head_portrait": "https://img1.doubanio.com/icon/u4292207-58.jpg",
+        "attention": [ ],
+        "licked": [ ],
+        "broadcast": ["1","2"]
+    }
+]
